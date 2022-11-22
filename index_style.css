@@ -1,5 +1,5 @@
 body{
-    background-color: antiquewhite;
+    background-color: rgb(242, 237, 230);
 }
 img {
     width: 70px;
@@ -21,13 +21,13 @@ h1 {
 #top_bar{
     border: 2px solid black;
     text-align: center;
-    background-color: rgb(90, 187, 194);
+    background-color: rgb(157, 210, 214);
 }
 
 .title {
     text-align: center;
     font-size: 60px;
-    text-shadow: 5px 5px 3px rgb(26, 125, 140);
+    text-shadow: 5px 5px 3px rgb(79, 184, 200);
     margin-right: 0px;
     padding-right: 450px;
 }
