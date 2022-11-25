@@ -33,7 +33,7 @@ h1 {
 .menu {
     list-style-type: none;
     border-left: 1px solid rgb(0, 0, 0);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Arial', serif;
     float: left;
     font-size: 20px;
     margin-top: 20px;
