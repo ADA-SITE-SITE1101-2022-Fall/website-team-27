@@ -21,12 +21,20 @@ h1 {
 #top_bar{
     border: 2px solid black;
     text-align: center;
+<<<<<<< HEAD
     background-color: rgb(48, 169, 220);
+=======
+    background-color: rgb(148, 20, 187);
+>>>>>>> d45c118a712e990282f6b3f01257a936d2113686
 }
 
 .title {
     text-align: center;
     font-size: 60px;
+<<<<<<< HEAD
+=======
+    text-shadow: 5px 5px 3px rgb(129, 0, 119);
+>>>>>>> d45c118a712e990282f6b3f01257a936d2113686
     margin-right: 0px;
     padding-right: 450px;
 }
