@@ -13,13 +13,18 @@ a {
 
 h1 {
     text-align: center;
+    border: 2px solid rgb(55, 52, 52);
+    width: 200px;
+    background-size: cover;
+    background-color: rgb(148, 59, 231);
+    
 }
 #nav_bar{
     border: 2px solid rgb(55, 52, 52);
     text-align: center;
     background-image: url("media/img/new.png");
     background-size: cover;
-    width: 1500px;
+    width: 1280px;
     height: 200px;
 }
 
@@ -39,6 +44,7 @@ h1 {
     width: 100%;
     height: 1000px;
     border: 2px solid black;
+    
 }
 
 .footer{
