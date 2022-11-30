@@ -6,32 +6,41 @@ h1 {
     text-align: center;
 }
 
-.nav-bar_category {
+.nav-bar_picture {
     background-color: white;
     border: 2px solid rgb(0, 0, 0);
     text-align: center;
     width: 1438px;
     height: 750px;
-    background-image: url("media/img/final.png");
+    background-image: url("media/img/mainfinal.png");
 }
 
-.nav-bar_category img {
+.nav-bar_picture img {
     float: left;
 }
 
-.nav-bar_category .links {
+.nav_bar .links {
     color: #060606;
+    text-align: center;
+    padding-left: 70px;
+    margin-left: 70px;
     text-decoration: none;
     font-size: 25px;
     text-transform: uppercase;
-    font-weight: 500;
+    font-weight: 400;
     display: inline-block;
     width: 190px;
-    padding-top: 35px;
+    padding-top: 60px;
 }
 
-.nav-bar_category a:hover {
+.nav_bar a:hover {
     color: #207178;
+}
+
+.nav_bar {
+    width: 100%;
+    height: 150px;
+    border: 2px solid black;
 }
 
 .container {
