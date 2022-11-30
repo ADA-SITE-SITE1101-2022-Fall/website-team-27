@@ -10,9 +10,9 @@ h1 {
     background-color: white;
     border: 2px solid rgb(0, 0, 0);
     text-align: center;
-    width: 98.95%;
-    height: 110px;
-    position: fixed;
+    width: 1438px;
+    height: 769px;
+    background-image: url("media/img/pic.png");
 }
 
 .nav-bar_category img {
