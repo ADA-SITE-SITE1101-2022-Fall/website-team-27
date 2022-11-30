@@ -34,14 +34,14 @@ h1 {
 }
 
 .nav_bar a:hover {
-    color: #207178;
+    color: #0a6d17;
 }
 
 .nav_bar {
     width: 100%;
     height: 150px;
     border: 2px solid black;
-    background-color:#ffffff;
+    background-color:#207178;
 }
 
 .container {
