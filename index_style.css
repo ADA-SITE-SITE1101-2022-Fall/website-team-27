@@ -10,9 +10,20 @@ h1 {
     background-color: white;
     border: 2px solid rgb(0, 0, 0);
     text-align: center;
-    width: 100%;
+    width: 1430px;
     height: 750px;
     background-image: url("media/img/mainfinal.png");
+}
+
+.container p{
+    text-align: center;
+    font-size: 30px;
+}
+
+.container img{
+    padding-left: 500px;
+    width: 500px;
+    height: 400px;
 }
 
 .nav-bar_picture img {
@@ -41,7 +52,7 @@ h1 {
     width: 100%;
     height: 150px;
     border: 2px solid black;
-    background-color:#207178;
+    background-color:#62b3ba;
 }
 
 .container {
